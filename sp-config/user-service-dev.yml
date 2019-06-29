@@ -19,6 +19,7 @@ management:
       exposure:
         include: refresh      
 
+
 ---
 spring:
   profiles: user1
